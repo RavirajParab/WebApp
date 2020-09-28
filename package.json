@@ -24,6 +24,7 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
-    "bootstrap": "^5.0.0-alpha1"
+    "bootstrap": "^5.0.0-alpha1",
+    "regenerator-runtime": "^0.13.7"
   }
 }
